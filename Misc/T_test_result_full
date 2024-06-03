@@ -1,0 +1,196 @@
+Year: 2008
+T-test between FA and SP:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+Year: 2009
+T-test between FA and SP:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: nan
+    p-value: nan
+    Fail to reject the null hypothesis.
+Year: 2010
+T-test between FA and SP:
+    t-statistic: -0.6705637632387245
+    p-value: 0.5025739119192982
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -0.18572112232601343
+    p-value: 0.85268158184276
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 0.4904366536504435
+    p-value: 0.6238763381668939
+    Fail to reject the null hypothesis.
+Year: 2011
+T-test between FA and SP:
+    t-statistic: -0.954951381547134
+    p-value: 0.3397127910593333
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -0.6621465811646201
+    p-value: 0.5079494299866547
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 0.2881440352256541
+    p-value: 0.7732640065677511
+    Fail to reject the null hypothesis.
+Year: 2012
+T-test between FA and SP:
+    t-statistic: -1.1794454198387812
+    p-value: 0.23836469304051103
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -0.14969071923426483
+    p-value: 0.8810237992371639
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 1.0791410831037636
+    p-value: 0.2806415546418299
+    Fail to reject the null hypothesis.
+Year: 2013
+T-test between FA and SP:
+    t-statistic: -0.3981491607055256
+    p-value: 0.6905654310168439
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -0.6586695601317986
+    p-value: 0.5101848289607095
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: -0.24840408127508298
+    p-value: 0.8038479555007021
+    Fail to reject the null hypothesis.
+Year: 2014
+T-test between FA and SP:
+    t-statistic: 0.17253656596353936
+    p-value: 0.8630339389484325
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 0.8565557012659407
+    p-value: 0.3917956084508819
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 0.7051301461458019
+    p-value: 0.48081011659093686
+    Fail to reject the null hypothesis.
+Year: 2015
+T-test between FA and SP:
+    t-statistic: -0.22550146882255784
+    p-value: 0.8216121311207284
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 0.013688617545472816
+    p-value: 0.9890797457804114
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 0.24142524130021512
+    p-value: 0.8092498809948644
+    Fail to reject the null hypothesis.
+Year: 2016
+T-test between FA and SP:
+    t-statistic: -0.6567750334994216
+    p-value: 0.5113960830656451
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 0.15924031448936943
+    p-value: 0.8734945019613188
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 0.8305806576384223
+    p-value: 0.40630349880039485
+    Fail to reject the null hypothesis.
+Year: 2017
+T-test between FA and SP:
+    t-statistic: -0.8703666476930321
+    p-value: 0.3841920123148783
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 0.3808707733557723
+    p-value: 0.7033343861323216
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 1.2860579817201263
+    p-value: 0.19855068279134955
+    Fail to reject the null hypothesis.
+Year: 2018
+T-test between FA and SP:
+    t-statistic: -3.1578030647940065
+    p-value: 0.0016094353141921957
+    Reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -1.9458569837845825
+    p-value: 0.05178654816332007
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 1.2224219908473277
+    p-value: 0.22166655092244786
+    Fail to reject the null hypothesis.
+Year: 2019
+T-test between FA and SP:
+    t-statistic: -0.7753441475027036
+    p-value: 0.4382101217562151
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 2.16049783583462
+    p-value: 0.030827215900042913
+    Reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 2.880822317989818
+    p-value: 0.004000033477267432
+    Reject the null hypothesis.
+Year: 2020
+T-test between FA and SP:
+    t-statistic: -16.12646447323352
+    p-value: 8.767287022350874e-56
+    Reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 1.5163608246958666
+    p-value: 0.12954529390567074
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: 17.463816054334355
+    p-value: 1.4891500081954735e-64
+    Reject the null hypothesis.
+Year: 2021
+T-test between FA and SP:
+    t-statistic: -7.554496973532643
+    p-value: 5.7783639724358e-14
+    Reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: -7.94341865859256
+    p-value: 2.89650796342109e-15
+    Reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: -0.2652098607074544
+    p-value: 0.7908679525507147
+    Fail to reject the null hypothesis.
+Year: 2022
+T-test between FA and SP:
+    t-statistic: 1.737685399476406
+    p-value: 0.08238357875081319
+    Fail to reject the null hypothesis.
+T-test between FA and WI:
+    t-statistic: 1.2044578345492247
+    p-value: 0.22852033558643067
+    Fail to reject the null hypothesis.
+T-test between SP and WI:
+    t-statistic: -0.5588634153903718
+    p-value: 0.5763009778107648
+    Fail to reject the null hypothesis.
+{'reject': 7, 'fail to reject': 38}
